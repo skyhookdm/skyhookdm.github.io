@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 20
-active: false
+weight: 40
+active: true
 
-title: Latest News
+title: 📰 News
 subtitle:
 
 content:
@@ -20,8 +20,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
-  columns: '1'
-
-active: false
+  view: 2
+  columns: '2'
 ---

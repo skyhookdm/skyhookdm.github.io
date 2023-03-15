@@ -4,53 +4,72 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Participate
-    identifier: participate
+  - name: Overview
+    url: overview
     weight: 10
-  - name: Call for Tutorials
-    parent: participate
-    url: cft
-    weight: 10
-  - name: Call for Papers
-    parent: participate
-    url: cfp
+  - name: FAQ
+    url: faq
     weight: 20
-  - name: Register
-    parent: participate
-    url: https://acmrep23.sched.com/
+  - name: Blog
+    url: blog
     weight: 30
-  - name: Attend
-    identifier: attend
-    weight: 20
-  - name: Health & Safety
-    parent: attend
-    url: health
+  - name: Get Skyhook
+    identifier: getskyhook
+    weight: 40
+  - name: Install
+    parent: getskyhook
+    url: install
     weight: 10
-  - name: Diversity & Inclusion
-    parent: attend
-    url: diversity
+  - name: Releases
+    parent: getskyhook
+    url: releases
     weight: 20
-  - name: Code of Conduct
-    parent: attend
-    url: conduct
+  - name: Source Code
+    parent: getskyhook
+    url: https://github.com/uccross/skyhookdm
     weight: 30
-  - name: Program
-    identifier: program
-    weight: 30
-  - name: Schedule
-    parent: program
-    url: https://acmrep23.sched.com
-    weight: 10
-  - name: Featured Keynote Speakers
-    parent: program
-    url: keynotes
-    weight: 20
-  #- name: Contact Us
-  #  url: contact
-  #  weight: 40
-  - name: ACM REP
-    url: https://acm-rep.github.io/
+  - name: Documentation
+    url: docs
+    weight: 40
+  - name: Subprojects
+    identifier: subprojects
     weight: 50
-  - name: ACM EIGREP
-    url: https://reproducibility.acm.org/
+  - name: Community
+    identifier: community
     weight: 60
+  - name: Communications
+    parent: community
+    url: communications
+    weight: 10
+  - name: Contributing
+    parent: community
+    url: contributing
+    weight: 20
+  - name: Issue Tracker
+    parent: community
+    url: https://github.com/skyhookdm/skyhookdm/issues
+    weight: 30
+  - name: Governance
+    parent: community
+    url: governance
+    weight: 40
+  - name: Use Cases
+    parent: community
+    url: usecases
+    weight: 50
+  - name: Powered By
+    parent: community
+    url: poweredby
+    weight: 60
+  - name: Visual Identity
+    parent: community
+    url: visualidentity
+    weight: 70
+  - name: Security
+    parent: community
+    url: security
+    weight: 80
+  - name: Code of Conduct
+    parent: community
+    url: codeofconduct
+    weight: 90
