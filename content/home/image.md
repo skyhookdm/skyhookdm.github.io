@@ -20,6 +20,5 @@ subtitle:
 ![SkyhookDM logo](logo.png)
 
 <center>
-Efficient and composable data management<br
-> in storage and network layers
+Efficient and composable data management<br> in storage and network layers
 </center>

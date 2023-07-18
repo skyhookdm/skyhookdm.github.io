@@ -2,6 +2,7 @@
 widget: blank
 headless: true
 weight: 70
+active: false
 title: ❓ Questions
 design:
   columns: "2"

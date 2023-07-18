@@ -4,72 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Overview
-    url: overview
+  - name: 🚀 Mission
+    url: "#mission"
     weight: 10
-  - name: FAQ
-    url: faq
+  - name: 💎 Features
+    url: "#features"
     weight: 20
-  - name: Blog
-    url: blog
+  - name: 📰 News
+    url: "#news"
     weight: 30
-  - name: Get Skyhook
-    identifier: getskyhook
+  - name: 🤔 Why?
+    url: "#why"
     weight: 40
-  - name: Install
-    parent: getskyhook
-    url: install
-    weight: 10
-  - name: Releases
-    parent: getskyhook
-    url: releases
-    weight: 20
-  - name: Source Code
-    parent: getskyhook
-    url: https://github.com/uccross/skyhookdm
-    weight: 30
-  - name: Documentation
-    url: docs
-    weight: 40
-  - name: Subprojects
-    identifier: subprojects
+  - name: 🧑‍🤝‍🧑 People
+    url: "#people"
     weight: 50
-  - name: Community
-    identifier: community
+  - name: 🎤 Publications
+    url: "#pubs"
     weight: 60
-  - name: Communications
-    parent: community
-    url: communications
-    weight: 10
-  - name: Contributing
-    parent: community
-    url: contributing
-    weight: 20
-  - name: Issue Tracker
-    parent: community
-    url: https://github.com/skyhookdm/skyhookdm/issues
-    weight: 30
-  - name: Governance
-    parent: community
-    url: governance
-    weight: 40
-  - name: Use Cases
-    parent: community
-    url: usecases
-    weight: 50
-  - name: Powered By
-    parent: community
-    url: poweredby
-    weight: 60
-  - name: Visual Identity
-    parent: community
-    url: visualidentity
-    weight: 70
-  - name: Security
-    parent: community
-    url: security
-    weight: 80
-  - name: Code of Conduct
-    parent: community
-    url: codeofconduct
-    weight: 90

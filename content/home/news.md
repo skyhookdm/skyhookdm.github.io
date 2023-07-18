@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 40
+weight: 25
 active: true
 
 title: 📰 News
@@ -20,6 +20,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: 2
+  view: 3
   columns: '2'
 ---
