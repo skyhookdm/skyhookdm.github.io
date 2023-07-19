@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 30
-title: 🤔 Why Storage & Network Layers?
+title: 🤔 Why Storage and Network Layers?
 design:
   columns: "2"
   css_style: null
