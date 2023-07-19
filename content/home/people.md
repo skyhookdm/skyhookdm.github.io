@@ -14,4 +14,3 @@ The following people have been significantly involved in Skyhook-related activit
 - Seagate: Aldrin Montana, Jeff LeFevre, Philip Kufeldt, Peter Alvaro
 - Sandia National Labs: Jianshen Liu, Matthew L. Curry, Craig Ulmer, Carlos Maltzahn
 - Argonne National Lab: Jayjeet Chakraborty, Matthieu Dorier, Phil Carns, Rob Ross, Carlos Maltzahn
-- Argonne National Lab: Jayjeet Chakraborty, Matthieu Dorier, Phil Carns, Rob Ross, Carlos Maltzahn
