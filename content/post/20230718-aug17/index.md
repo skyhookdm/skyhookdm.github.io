@@ -1,6 +1,6 @@
 ---
 title: Computational I/O Stack Workshop, August 17, 2023
-summary:  The Computational I/O Stack Workshop featuring keynote speaker Yoichiro Tanaka (Tohoku University) will take place on August 17, 2023, 10am-3pm, at UC Santa Cruz, Engineering 2 (room to be confirmed).
+summary:  A workshop featuring keynote speaker Yoichiro Tanaka (Tohoku University) that will take place from 10am to 3pm (PT), at UC Santa Cruz in the Engineering 2 building (room to be confirmed).
 date: 2023-07-17
 active: true
 image:
