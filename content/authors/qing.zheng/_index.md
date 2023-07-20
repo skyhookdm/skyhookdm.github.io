@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Computer Scientist, Los Alamos National Laboratory
+role: Assistant Computer Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: LANL High Performance Computing (HPC) Division
+- name: High Performance Computing (HPC) Division
   url: https://lanl.gov/org/ddste/aldsc/hpc/index.php
 - name: Los Alamos National Laboratory
   url: https://lanl.gov/
