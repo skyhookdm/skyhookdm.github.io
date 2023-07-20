@@ -3,6 +3,13 @@ Time,Title,Speaker(s)
 10:15am-11:15,"IEEE Distinguished Lecture: [Magnetic data storage technology; from the invention of perpendicular magnetic recording (PMR) to the social integration](/author/yoichiro-tanaka)","Yoichiro Tanaka (Tohoku University)"
 11:15-noon,Q&A and Discussion,
 noon-1pm,Lunch,
-1-2pm,Session 1: Skyhook Data Management,
+**1-2pm**,**Session 1**,
+1-1:30pm,"Accelerated Disks and Flashes: LANL's early experience in Speeding Up Analytics Workloads Using Smart Devices",Qing Zheng (LANL)
+1:30-1:45pm,Kinetic Open Storage Update,Philip Kufeldt (Seagate)
+1:45-2pm,Skytether,Aldrin Montana (UC Santa Cruz)
 2-2:30pm,Break,
-2:30-3:30pm,Session 2: Institutional Innovations,
+**2:30-3:30pm**,**Session 2**,
+2:30-2:45pm,Extending Composable Data Services into SmartNICS,Craig Ulmer (Sandia National Labs)
+2:45-3pm,Opportunistic Querying in SmartNICs,Jianshen Liu (Self)
+3-3:15pm,Towards Faster Columnar Data Transport using RDMA,Jayjeet Chakraborty (UC Santa Cruz)
+3:15-3:30pm,Institutional Support for Experimental Systems Research,Carlos Maltzahn (UC Santa Cruz)
