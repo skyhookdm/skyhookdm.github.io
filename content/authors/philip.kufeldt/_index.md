@@ -13,10 +13,10 @@ superuser: false
 role: Adviser
 
 # Organizations/Affiliations
-organizations:
+organizations: self
 
 # Short bio (displayed in user profile at end of posts)
-bio: Philip Kufeldt's last role was a Technologist in Seagate Research. He focuses on computational storage using smart HDDs. He has 30 years of experience in storage, software, and systems. Before Seagate Philip was at Toshiba, creating new smart media devices and founding the Kinetic Open Storage Project; additionally he spent time at UCSC, Marvell, Parascale, VERITAS Software, Sun Microsystems, and IBM; and he has founded several storage oriented startups.
+bio: Philip Kufeldt's last role was a Technologist in Seagate Research. He focuses on computational storage using smart HDDs. He has 30 years of experience in storage, software, and systems. Before Seagate, Philip was at Toshiba, creating new smart media devices and founding the Kinetic Open Storage Project; additionally he has spent time at UCSC, Marvell, Parascale, VERITAS Software, Sun Microsystems, and IBM; and he has founded several storage oriented startups.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -36,9 +36,9 @@ user_groups:
 ---
 **Kinetic Open Storage Project Update**
 
-**Abstract:** Prior to departing Seagate I was able to open source the remaining components of Seagate's Kinetic implementation, namely their server kineticd.  This server implementation was used in their production 4T and 8T production offerings.  An entire Kinetic research vehicle in source form is available for research, from client to server.  This presentation will go over this open source. 
+**Abstract:** Prior to departing Seagate I was able to open source the remaining components of Seagate's Kinetic implementation, namely their server, kineticd.  This kinetic server implementation was used inside their production 4T and 8T Kinetic HDD offerings.  An entire Kinetic research vehicle in source form is now available for research, from client to server.  This presentation will go over this open source. 
 
-**Bio:** Philip Kufeldt's last role was a Technologist in Seagate Research. He focuses on computational storage using smart HDDs. He has 30 years of experience in storage, software, and systems. Before Seagate Philip was at Toshiba, creating new smart media devices and founding the Kinetic Open Storage Project; additionally he spent time at UCSC, Marvell, Parascale, VERITAS Software, Sun Microsystems, and IBM; and he has founded several storage oriented startups.
+**Bio:** Philip Kufeldt's last role was a Technologist in Seagate Research. He focuses on computational storage using smart HDDs. He has 30 years of experience in storage, software, and systems. Before Seagate, Philip was at Toshiba, creating new smart media devices and founding the Kinetic Open Storage Project; additionally he has spent time at UCSC, Marvell, Parascale, VERITAS Software, Sun Microsystems, and IBM; and he has founded several storage oriented startups.
 
 
 **Contact:** Philip Kufeldt; e-mail: pak@integratus.com
