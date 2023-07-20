@@ -13,7 +13,7 @@ superuser: false
 role: Adviser
 
 # Organizations/Affiliations
-organizations: self
+organizations: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Philip Kufeldt's last role was a Technologist in Seagate Research. He focuses on computational storage using smart HDDs. He has 30 years of experience in storage, software, and systems. Before Seagate, Philip was at Toshiba, creating new smart media devices and founding the Kinetic Open Storage Project; additionally he has spent time at UCSC, Marvell, Parascale, VERITAS Software, Sun Microsystems, and IBM; and he has founded several storage oriented startups.
