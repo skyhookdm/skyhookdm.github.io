@@ -1,7 +1,8 @@
 Time,Title,Speaker(s)
-10-10:15,"Introduction","[Carlos Maltzahn](/author/carlos-maltzahn) (UC Santa Cruz), [Philip Kufeldt](/author/philip-kufeldt)"
-10:15am-11:15,"**IEEE Distinguished Lecture:** [Magnetic data storage technology; from the invention of perpendicular magnetic recording (PMR) to the social integration](/author/yoichiro-tanaka)","[Yoichiro Tanaka](/author/yoichiro-tanaka) (Tohoku University)"
-11:15-noon,Q&A and Discussion,
+10-10:15am,"Introduction","[Carlos Maltzahn](/author/carlos-maltzahn) (UC Santa Cruz), [Philip Kufeldt](/author/philip-kufeldt)"
+10:15a-11:15am,"**IEEE Distinguished Lecture:** [Magnetic data storage technology; from the invention of perpendicular magnetic recording (PMR) to the social integration](/author/yoichiro-tanaka)","[Yoichiro Tanaka](/author/yoichiro-tanaka) (Tohoku University)"
+11:15-11:45am,Q&A and Discussion,
+11:45-noon,Institutional Support for Experimental Systems Research,[Carlos Maltzahn](/author/carlos-maltzahn) (UC Santa Cruz)
 noon-1pm,Lunch,
 **1-2pm**,**Session 1**,
 1-1:30pm,"[C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing](/author/qing-zheng)",[Qing Zheng](/author/qing-zheng) (LANL)
@@ -11,5 +12,5 @@ noon-1pm,Lunch,
 **2:30-3:30pm**,**Session 2**,
 2:30-2:45pm,Extending Composable Data Services into SmartNICS,Craig Ulmer (Sandia National Labs)
 2:45-3pm,Opportunistic Querying in SmartNICs,Jianshen Liu (Self)
-3-3:15pm,Towards Faster Columnar Data Transport using RDMA,Jayjeet Chakraborty (UC Santa Cruz)
-3:15-3:30pm,Institutional Support for Experimental Systems Research,[Carlos Maltzahn](/author/carlos-maltzahn) (UC Santa Cruz)
+3-3:15pm,TBD,Matthew L. Curry (Sandia National Labs)
+3:15-3:30pm,Towards Faster Columnar Data Transport using RDMA,Jayjeet Chakraborty (UC Santa Cruz)
