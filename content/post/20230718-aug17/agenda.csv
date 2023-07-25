@@ -11,6 +11,10 @@ noon-1pm,Lunch,
 2-2:30pm,Break,
 **2:30-3:30pm**,**Session 2**,
 2:30-2:45pm,Extending Composable Data Services into SmartNICS,Craig Ulmer (Sandia National Labs)
-2:45-3pm,Opportunistic Querying in SmartNICs,Jianshen Liu (Self)
+2:45-3pm,Opportunistic Querying in SmartNICs,Jianshen Liu (UCSC)
 3-3:15pm,TBD,Matthew L. Curry (Sandia National Labs)
 3:15-3:30pm,[Towards Faster Columnar Data Transport using RDMA](/author/jayjeet-chakraborty),[Jayjeet Chakraborty (UC Santa Cruz)](/author/jayjeet-chakraborty)
+3:30-4pm,Break,
+**4-5pm**,**Session 3**,
+4-4:30pm,TBD,"Pankaj Mehra (UCSC, Elephance Memory)"
+4:30-5pm,TBD,TBD (Voltron Data)
