@@ -1,21 +1,24 @@
 Time,Title,Speaker(s)
-10-10:15am,"Introduction","[Carlos Maltzahn](/author/carlos-maltzahn) (UC Santa Cruz), [Philip Kufeldt](/author/philip-kufeldt)"
-10:15a-11:15am,"**IEEE Distinguished Lecture:** [Magnetic data storage technology; from the invention of perpendicular magnetic recording (PMR) to the social integration](/author/yoichiro-tanaka)","[Yoichiro Tanaka](/author/yoichiro-tanaka) (Tohoku University)"
-11:15-11:45am,Q&A and Discussion,
-11:45-noon,Institutional Support for Experimental Systems Research,[Carlos Maltzahn](/author/carlos-maltzahn) (UC Santa Cruz)
-noon-1pm,Lunch,
-**1-2pm**,**Session 1**,
-1-1:30pm,"[C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing](/author/qing-zheng)",[Qing Zheng](/author/qing-zheng) (Los Alamos National Lab)
-1:30-1:45pm,[Kinetic Open Storage Update](/author/philip-kufeldt),[Philip Kufeldt](/author/philip-kufeldt)
-1:45-2pm,Skytether,Aldrin Montana (UC Santa Cruz)
-2-2:30pm,Break,
-**2:30-3:30pm**,**Session 2**,
-2:30-2:45pm,Extending Composable Data Services into SmartNICS,Craig Ulmer (Sandia National Labs)
-2:45-3pm,Opportunistic Querying in SmartNICs,Jianshen Liu (UCSC)
-3-3:15pm,[An HPC-Oriented Runtime Environment for Enabling Computational Storage](/author/matthew-curry),[Matthew L. Curry](/author/matthew-curry) (Sandia National Labs)
-3:15-3:30pm,[Towards Faster Columnar Data Transport using RDMA](/author/jayjeet-chakraborty),[Jayjeet Chakraborty](/author/jayjeet-chakraborty) (UC Santa Cruz)
-3:30-4pm,Break,
-**4-5pm**,**Session 3**,
-4-4:20pm,[Contemplating a new Compute-Memory Hierarchy through the lens of an Acceleration Programming Interface](/author/pankaj-mehra/),"[Pankaj Mehra](/author/pankaj-mehra/) (UCSC, Elephance Memory)"
-4:20-4:40pm,TBD,TBD (Voltron Data)
-4:40-5pm,TBD,TBD (Sundeck)
+**10-10:15am**,**Introduction**,"[Carlos Maltzahn](/author/carlos-maltzahn) (UC Santa Cruz), [Philip Kufeldt](/author/philip-kufeldt)"
+**10:15-noon**,**Session 1**,
+10:15-11:15am,"**IEEE Distinguished Lecture:** [Magnetic data storage technology; from the invention of perpendicular magnetic recording (PMR) to the social integration](/author/yoichiro-tanaka)","[Yoichiro Tanaka](/author/yoichiro-tanaka) (Tohoku University)"
+11:15-11:30,Q&A and Discussion,
+11:30-11:45am,Institutional Support for Experimental Systems Research,[Carlos Maltzahn](/author/carlos-maltzahn) (UC Santa Cruz)
+11:45-noon,Q&A and Discussion,
+**noon-1pm**,**Lunch** (provided),
+**1-2:35pm**,**Session 2**,
+1-1:20pm,[Contemplating a new Compute-Memory Hierarchy through the lens of an Acceleration Programming Interface](/author/pankaj-mehra/),"[Pankaj Mehra](/author/pankaj-mehra/) (UCSC, Elephance Memory)"
+1:20-1:35pm,TBD,TBD (Voltron Data)
+1:35-1:50pm,[Kinetic Open Storage Update](/author/philip-kufeldt),[Philip Kufeldt](/author/philip-kufeldt)
+1:50-2:05pm,Skytether,Aldrin Montana (UC Santa Cruz)
+2:05-2:35pm,"[C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing](/author/qing-zheng)",[Qing Zheng](/author/qing-zheng) (Los Alamos National Lab)
+**2:35-3:05pm**,**Break** (refreshments provided),
+**3:05-3.55pm**,**Session 3**,
+3:05-3:25pm,Extending Composable Data Services into SmartNICS,Craig Ulmer (Sandia National Labs)
+3:25-3:40pm,Opportunistic Querying in SmartNICs,Jianshen Liu (UC Santa Cruz)
+3:40-3:55pm,[An HPC-Oriented Runtime Environment for Enabling Computational Storage](/author/matthew-curry),[Matthew L. Curry](/author/matthew-curry) (Sandia National Labs)
+**3:55-4:25pm**,**Break** (refreshments provided),
+**4:25-5pm**,**Session 4**,
+4:25-4:40pm,[Towards Faster Columnar Data Transport using RDMA](/author/jayjeet-chakraborty),[Jayjeet Chakraborty](/author/jayjeet-chakraborty) (UC Santa Cruz)
+4:40-4:50,CSAssist: A Methodology to Assist Kernel Offloading Decisions on Computational Storage,Lokesh Jaliminche (UC Santa Cruz)
+4:50-5pm,RPC offloading to SmartNICs,Esteban Ramos (UC Santa Cruz)
