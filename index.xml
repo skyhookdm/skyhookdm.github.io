@@ -10,8 +10,13 @@
 &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSc4VS7CdH7F7u-78W4t_WZVkoeI7pkfmGkuX0EmwZlOn3cweg/viewform" class="btn btn-primary px-3 py-3">Register &amp;ndash;&amp;gt;&lt;/a>
 &lt;/li>
 &lt;/ul>
+&lt;div class="alert alert-note">
+&lt;div>
+The event is hybrid &amp;ndash; we highly encourage in-person attendance and welcome remote participation.
+&lt;/div>
+&lt;/div>
 &lt;p>The introduction of computational data management services into the I/O stack, especially in storage and networking devices, requires both technological innovations and new relations between university and industry. This one-day workshop will convene experts from storage systems, open source, and community architecture to discuss technologies and strategies for a computational I/O stack with low market entry barriers.&lt;/p>
-&lt;p>The workshop will take place on August 17, 2023 from 10am to 5pm, at UC Santa Cruz, Engineering 2 (room to be confirmed) and is organized by the &lt;a href="https://ieeemagnetics.org/membership/educational-outreach/distinguished-lecturers" target="_blank" rel="noopener">IEEE Magnetics Society&amp;rsquo;s Distinguished Lecturers Program&lt;/a>, the Skyhook Data Management community with funding by the National Science Foundation (&lt;a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229773" target="_blank" rel="noopener">TI-2229773&lt;/a>), the Center for Research in Open Source Software (&lt;a href="https://cross.ucsc.edu" target="_blank" rel="noopener">cross.ucsc.edu&lt;/a>), and the Open Source Program Office, UC Santa Cruz (&lt;a href="https://ospo.ucsc.edu" target="_blank" rel="noopener">ospo.ucsc.edu&lt;/a>).&lt;/p>
+&lt;p>The workshop will take place on August 17, 2023 from 10am to 5pm, at UC Santa Cruz, Engineering 2 (room to be confirmed) and is jointly organized by the &lt;a href="https://ieeemagnetics.org/membership/educational-outreach/distinguished-lecturers" target="_blank" rel="noopener">IEEE Magnetics Society&amp;rsquo;s Distinguished Lecturers Program&lt;/a>, the Skyhook Data Management community with funding by the National Science Foundation (&lt;a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229773" target="_blank" rel="noopener">TI-2229773&lt;/a>), the Center for Research in Open Source Software (&lt;a href="https://cross.ucsc.edu" target="_blank" rel="noopener">cross.ucsc.edu&lt;/a>), and the Open Source Program Office, UC Santa Cruz (&lt;a href="https://ospo.ucsc.edu" target="_blank" rel="noopener">ospo.ucsc.edu&lt;/a>).&lt;/p>
 &lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSc4VS7CdH7F7u-78W4t_WZVkoeI7pkfmGkuX0EmwZlOn3cweg/viewform" class="btn btn-primary px-3 py-3">Register &amp;ndash;&amp;gt;&lt;/a>
@@ -35,7 +40,7 @@
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/yoichiro-tanaka">Yoichiro Tanaka&lt;/a> (Tohoku University)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td data-table-dtype="text">11:15-11:30&lt;/td>
+&lt;td data-table-dtype="text">11:15-11:30am&lt;/td>
 &lt;td data-table-dtype="text">Q&amp;amp;A and Discussion&lt;/td>
 &lt;td data-table-dtype="text">&lt;/td>
 &lt;/tr>
