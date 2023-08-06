@@ -6,19 +6,22 @@ Time,Title,Speaker(s)
 11:30-11:45am,Institutional Support for Experimental Systems Research,[Carlos Maltzahn](/author/carlos-maltzahn) (UC Santa Cruz)
 11:45-noon,Q&A and Discussion,
 **noon-1pm**,**Lunch** (provided),
-**1-2:35pm**,**Session 2**,
-1-1:20pm,[Contemplating a new Compute-Memory Hierarchy through the lens of an Acceleration Programming Interface](/author/pankaj-mehra/),"[Pankaj Mehra](/author/pankaj-mehra/) (UCSC, Elephance Memory)"
-1:20-1:35pm,TBD,TBD (Voltron Data)
-1:35-1:50pm,[Kinetic Open Storage Update](/author/philip-kufeldt),[Philip Kufeldt](/author/philip-kufeldt)
-1:50-2:05pm,Skytether,Aldrin Montana (UC Santa Cruz)
-2:05-2:35pm,"[C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing](/author/qing-zheng)",[Qing Zheng](/author/qing-zheng) (Los Alamos National Lab)
-**2:35-3:05pm**,**Break** (refreshments provided),
-**3:05-3.55pm**,**Session 3**,
-3:05-3:25pm,Extending Composable Data Services into SmartNICS,Craig Ulmer (Sandia National Labs)
-3:25-3:40pm,Opportunistic Querying in SmartNICs,Jianshen Liu (UC Santa Cruz)
-3:40-3:55pm,[An HPC-Oriented Runtime Environment for Enabling Computational Storage](/author/matthew-curry),[Matthew L. Curry](/author/matthew-curry) (Sandia National Labs)
-**3:55-4:25pm**,**Break** (refreshments provided),
-**4:25-5pm**,**Session 4**,
+**1-2:05pm**,**Session 2**,
+1-2:20pm,[Contemplating a new Compute-Memory Hierarchy through the lens of an Acceleration Programming Interface](/author/pankaj-mehra/),"[Pankaj Mehra](/author/pankaj-mehra/) (UCSC, Elephance Memory)"
+1:20-1:35pm,Apache Arrow,Ian Cook (Voltron Data)
+1:35-1:50pm,Substrait,Jacques Nadeau (Sundeck)
+1:50-2:05pm,[Kinetic Open Storage Update](/author/philip-kufeldt),[Philip Kufeldt](/author/philip-kufeldt)
+**2:05-2:20pm**,**Break** (refreshments provided),
+**2:20-3.05pm**,**Session 3**,
+2:20-2:35pm,Skytether,Aldrin Montana (UC Santa Cruz)
+2:35-3:05pm,"[C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing](/author/qing-zheng)",[Qing Zheng](/author/qing-zheng) (Los Alamos National Lab)
+**3:05-3:20pm**,**Break** (refreshments provided),
+**3:20-4:10pm**,**Session 4**,
+3:20-3:40pm,Extending Composable Data Services into SmartNICS,Craig Ulmer (Sandia National Labs)
+3:40-3:55pm,Opportunistic Querying in SmartNICs,Jianshen Liu (UC Santa Cruz)
+3:55-4:10pm,[An HPC-Oriented Runtime Environment for Enabling Computational Storage](/author/matthew-curry),[Matthew L. Curry](/author/matthew-curry) (Sandia National Labs)
+**4:10-4:25pm**,**Break** (refreshments provided),
+**4:25-5pm**,**Session 5**,
 4:25-4:40pm,[Towards Faster Columnar Data Transport using RDMA](/author/jayjeet-chakraborty),[Jayjeet Chakraborty](/author/jayjeet-chakraborty) (UC Santa Cruz)
 4:40-4:50,A Methodology to Assist Kernel Offloading Decisions on Computational Storage,Lokesh Jaliminche (UC Santa Cruz)
 4:50-5pm,RPC offloading to SmartNICs,Esteban Ramos (UC Santa Cruz)
