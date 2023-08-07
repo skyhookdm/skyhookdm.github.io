@@ -53,5 +53,4 @@ management systems, and storage systems. His current research focuses on distrib
 query plans across computational devices in a distributed system where the devices are
 organized hierarchically and may have a wide variety of device characteristics.
 
-
 **Contact:** Aldrin Montana; e-mail: akmontan@ucsc.edu
