@@ -16,12 +16,7 @@ role: PhD Candidate
 organizations: UC Santa Cruz
 
 # Short bio (displayed in user profile at end of posts)
-bio: Aldrin is a PhD candidate at the University of California, Santa Cruz. He
-is advised by Peter Alvaro and also works with Josh Stuart, Jeff LeFevre, and
-Carlos Maltzahn. His research interests primarily include bioinformatics, data
-management systems, and storage systems. His current research focuses on distributing
-query plans across computational devices in a distributed system where the devices are
-organized hierarchically and may have a wide variety of device characteristics.
+bio: Aldrin is a PhD candidate at the University of California, Santa Cruz. He is advised by Peter Alvaro and also works with Josh Stuart, Jeff LeFevre, and Carlos Maltzahn. His research interests primarily include bioinformatics, data management systems, and storage systems. His current research focuses on distributing query plans across computational devices in a distributed system where the devices are organized hierarchically and may have a wide variety of device characteristics.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
