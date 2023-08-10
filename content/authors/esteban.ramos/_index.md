@@ -14,6 +14,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations: 
+- name: University of California, Santa Cruz
+  url: https://www.ucsc.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Esteban Ramos is a PhD student at the University of California, Santa Cruz. He is advised by Dr. Peter Alvaro. He is interested in distributed systems, data management systems, and networking. He is currently working on projects that seek to minimize overhead introduced by RPCs in microservice applications.  
