@@ -30,7 +30,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">10:15-11:15am&lt;/td>
-&lt;td data-table-dtype="text">&lt;strong>IEEE Distinguished Lecture:&lt;/strong> &lt;a href="https://skyhookdm.github.io/author/yoichiro-tanaka">Magnetic data storage technology; from the invention of perpendicular magnetic recording (PMR) to the social integration&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>IEEE Distinguished Lecture:&lt;/strong> &lt;a href="https://skyhookdm.github.io/talks/20230817/yoichiro.tanaka">Magnetic data storage technology; from the invention of perpendicular magnetic recording (PMR) to the social integration&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/yoichiro-tanaka">Yoichiro Tanaka&lt;/a> (Tohoku University)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -40,7 +40,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">11:30-11:45am&lt;/td>
-&lt;td data-table-dtype="text">Institutional Support for Experimental Systems Research&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/admin">Institutional Support for Experimental Systems Research&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/carlos-maltzahn">Carlos Maltzahn&lt;/a> (UC Santa Cruz)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -60,7 +60,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">1-2:20pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/pankaj-mehra/">Contemplating a new Compute-Memory Hierarchy through the lens of an Acceleration Programming Interface&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/pankaj.mehra/">Contemplating a new Compute-Memory Hierarchy through the lens of an Acceleration Programming Interface&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/pankaj-mehra/">Pankaj Mehra&lt;/a> (UCSC, Elephance Memory)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -75,7 +75,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">1:50-2:05pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/philip-kufeldt">Kinetic Open Storage Update&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/philip.kufeldt">Kinetic Open Storage Update&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/philip-kufeldt">Philip Kufeldt&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -95,7 +95,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">2:35-3:05pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/qing-zheng">C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/qing.zheng">C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/qing-zheng">Qing Zheng&lt;/a> (Los Alamos National Lab)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -110,7 +110,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">3:20-3:40pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/craig-ulmer">Extending Composable Data Services into SmartNICS&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/craigulmer">Extending Composable Data Services into SmartNICS&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/craig-ulmer">Craig Ulmer&lt;/a> (Sandia National Labs)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -120,7 +120,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">3:55-4:10pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/matthew-curry">An HPC-Oriented Runtime Environment for Enabling Computational Storage&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/matthew.curry">An HPC-Oriented Runtime Environment for Enabling Computational Storage&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/matthew-curry">Matthew L. Curry&lt;/a> (Sandia National Labs)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -135,7 +135,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">4:25-4:40pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/jayjeet-chakraborty">Towards Faster Columnar Data Transport using RDMA&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/jayjeet.chakraborty">Towards Faster Columnar Data Transport using RDMA&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/jayjeet-chakraborty">Jayjeet Chakraborty&lt;/a> (UC Santa Cruz)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -145,7 +145,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">4:50-5pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/esteban-ramos">Split gRPC: An Isolation Architecture for RPC Stacks on SmartNICs&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/esteban.ramos">Split gRPC: An Isolation Architecture for RPC Stacks on SmartNICs&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/esteban-ramos">Esteban Ramos&lt;/a> (UC Santa Cruz)&lt;/td>
 &lt;/tr>
 &lt;caption>Table: Preliminary Agenda&lt;/caption>
