@@ -32,13 +32,8 @@ social:
 
 # Important: use this to enable a list of pictures for all keynote pictures on the keynote speaker page.
 user_groups:
-- Keynote Speaker
+- External Contributors
 ---
-**Kinetic Open Storage Project Update**
-
-**Abstract:** Prior to departing Seagate I was able to open source the remaining components of Seagate's Kinetic implementation, namely their server, kineticd.  This kinetic server implementation was used inside their production 4T and 8T Kinetic HDD offerings.  An entire Kinetic research vehicle in source form is now available for research, from client to server.  This presentation will go over this open source. 
-
-**Bio:** Philip Kufeldt's last role was a Technologist in Seagate Research. He focuses on computational storage using smart HDDs. He has 30 years of experience in storage, software, and systems. Before Seagate, Philip was at Toshiba, creating new smart media devices and founding the Kinetic Open Storage Project; additionally he has spent time at UCSC, Marvell, Parascale, VERITAS Software, Sun Microsystems, and IBM; and he has founded several storage oriented startups.
-
+Philip Kufeldt's last role was a Technologist in Seagate Research. He focuses on computational storage using smart HDDs. He has 30 years of experience in storage, software, and systems. Before Seagate, Philip was at Toshiba, creating new smart media devices and founding the Kinetic Open Storage Project; additionally he has spent time at UCSC, Marvell, Parascale, VERITAS Software, Sun Microsystems, and IBM; and he has founded several storage oriented startups.
 
 **Contact:** Philip Kufeldt; e-mail: pak@integratus.com
