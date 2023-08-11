@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Administrator
+title: Carlos Maltzahn
 
 # Username (this should match the folder name)
-author: "admin"
+author: "carlos.maltzahn"
 authors:
-- admin
+- carlos.maltzahn
 
 # Is this the primary user of the site?
 superuser: true
