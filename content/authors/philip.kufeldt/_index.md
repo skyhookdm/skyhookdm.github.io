@@ -3,6 +3,7 @@
 title: Philip Kufeldt	
 
 # Username (this should match the folder name)
+author: "philip.kufeldt"
 authors:
 - philip.kufeldt
 
