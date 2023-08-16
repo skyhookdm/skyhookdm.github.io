@@ -31,4 +31,4 @@ device, a subplan is processed locally, translated to a physical query plan, the
 physical query plan is executed. Execution of the physical query plan may be partial
 (best-effort), and the portions that were not executed are propagated with the query
 results so that CS devices higher in the data access path may, collectively, eventually
-execute the initial query plan.
+complete execution of the initial query plan.
