@@ -23,5 +23,5 @@ Time,Title,Speaker(s)
 **4:10-4:25pm**,**Break** (refreshments provided),
 **4:25-5pm**,**Session 5**,
 4:25-4:40pm,[Towards Faster Columnar Data Transport using RDMA](/talks/20230817/jayjeet.chakraborty),[Jayjeet Chakraborty](/author/jayjeet-chakraborty) (UC Santa Cruz)
-4:40-4:50,A Methodology to Assist Kernel Offloading Decisions on Computational Storage,Lokesh Jaliminche (UC Santa Cruz)
+4:40-4:50,[A Methodology to Assist Kernel Offloading Decisions on Computational Storage](/talks/20230817/lokesh.jaliminche),[Lokesh Jaliminche](/author/lokesh-jaliminche) (UC Santa Cruz)
 4:50-5pm,[Split gRPC: An Isolation Architecture for RPC Stacks on SmartNICs](/talks/20230817/esteban.ramos),[Esteban Ramos](/author/esteban-ramos) (UC Santa Cruz)
