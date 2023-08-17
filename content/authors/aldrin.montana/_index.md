@@ -37,7 +37,7 @@ social:
 
 # Important: use this to enable a list of pictures for all keynote pictures on the keynote speaker page.
 user_groups:
-- Computaional I/O Stack Workshop Speakers
+- Computational I/O Stack Workshop Speakers
 ---
 Aldrin is a PhD candidate at the University of California, Santa Cruz. He is advised by
 Peter Alvaro and also works with Josh Stuart, Jeff LeFevre, and Carlos Maltzahn. His

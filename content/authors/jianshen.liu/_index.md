@@ -43,6 +43,6 @@ social:
 
 # Important: use this to enable a list of pictures for all keynote pictures on the keynote speaker page.
 user_groups:
-- Computaional I/O Stack Workshop Speakers
+- Computational I/O Stack Workshop Speakers
 ---
 Jianshen Liu recently earned his Ph.D. in Computer Science from University of California, Santa Cruz, under the supervision of Prof. {{% mention carlos.maltzahn %}}. As a graduate student researcher at the university, he focused on exploring the opportunities and benefits of utilizing computational storage devices and SmartNICs, developing methods and tools to harness their potential. He interned at Samsung and Kioxia, focusing on computational storage research. He is currently starting a career as a software engineer with a globally recognized information and communications technology infrastructure leader.
