@@ -3,6 +3,7 @@
 title: Jianshen Liu
 
 # Username (this should match the folder name)
+author: "jianshen.liu"
 authors:
 - jianshen.liu
 
