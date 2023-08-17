@@ -18,7 +18,7 @@ Time,Title,Speaker(s)
 **3:05-3:20pm**,**Break** (refreshments provided),
 **3:20-4:10pm**,**Session 4**,
 3:20-3:40pm,[Extending Composable Data Services into SmartNICS](/talks/20230817/craigulmer),[Craig Ulmer](/author/craig-ulmer) (Sandia National Labs)
-3:40-3:55pm,Opportunistic Querying in SmartNICs,Jianshen Liu (UC Santa Cruz)
+3:40-3:55pm,[Opportunistic Query Execution on SmartNICs for Analyzing In-Transit Data](/talks/20230817/jianshen.liu),[Jianshen Liu](/author/jianshen-liu) (UC Santa Cruz)
 3:55-4:10pm,[An HPC-Oriented Runtime Environment for Enabling Computational Storage](/talks/20230817/matthew.curry),[Matthew L. Curry](/author/matthew-curry) (Sandia National Labs)
 **4:10-4:25pm**,**Break** (refreshments provided),
 **4:25-5pm**,**Session 5**,
