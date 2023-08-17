@@ -9,4 +9,11 @@ design:
   css_class: null
 ---
 
-SkyhookDM is an open source project to enable automatic mapping of data processing of structured data to heterogeneous architectures by providing a framework for efficient and composable data processing in storage and network layers. SkyhookDM leverages Apache Arrow and other open source projects that receive significant investment by the data management community in science and industry. The project strives to maximize contributions to existing open source projects while minimizing the size (and need for maintenance) of an independent codebase.
+Cultivate an ecosystem in which the open source software for the computational I/O stack can be developed, distributed, and sustained. This open source software must reduce barriers of adoption and meet the current and future challenges of the computational I/O stack, and the solutions should leverage the existing expertise outside storage and network I/O communities.
+
+## Goals
+
+- Foster collaboration around the open source data science, storage, and networking systems ecosystem
+- Support the development with system- and domain-specific computational I/O stack packages
+- Reduce barriers of adoption of open source software for the computational I/O stack
+
