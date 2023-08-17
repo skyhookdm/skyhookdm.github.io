@@ -8,8 +8,8 @@ Time,Title,Speaker(s)
 **noon-1pm**,**Lunch** (provided),
 **1-2:05pm**,**Session 2**,
 1-2:20pm,[Contemplating a new Compute-Memory Hierarchy through the lens of an Acceleration Programming Interface](/talks/20230817/pankaj.mehra/),"[Pankaj Mehra](/author/pankaj-mehra/) (UCSC, Elephance Memory)"
-1:20-1:35pm,Apache Arrow,Ian Cook (Voltron Data)
-1:35-1:50pm,Substrait,Jacques Nadeau (Sundeck)
+1:20-1:35pm,[Apache Arrow](https://arrow.apache.org/),[Ian Cook](/author/ian-cook) (Voltron Data)
+1:35-1:50pm,[Substrait](https://substrait.io),[Jacques Nadeau](/author/jacques-nadeau) (Sundeck)
 1:50-2:05pm,[Kinetic Open Storage Update](/talks/20230817/philip.kufeldt),[Philip Kufeldt](/author/philip-kufeldt)
 **2:05-2:20pm**,**Break** (refreshments provided),
 **2:20-3.05pm**,**Session 3**,
