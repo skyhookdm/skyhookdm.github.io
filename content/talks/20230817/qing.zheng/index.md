@@ -4,6 +4,7 @@ subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/post/20230718-au
 date: 2023-07-17
 authors: [qing.zheng]
 active: true
+url_slides: c2-ucsc-workshop-slides.pdf
 image:
   focal_point: 'top'
 ---
