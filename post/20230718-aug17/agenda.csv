@@ -19,7 +19,7 @@ Time,Title,Speaker(s)
 **3:20-4:10pm**,**Session 4**,
 3:20-3:40pm,[Extending Composable Data Services into SmartNICS](/talks/20230817/craigulmer),[Craig Ulmer](/author/craig-ulmer) (Sandia National Labs)
 3:40-3:55pm,[Opportunistic Query Execution on SmartNICs for Analyzing In-Transit Data](/talks/20230817/jianshen.liu) ([slides](https://docs.google.com/presentation/d/1yt1s6fQ0ugHSJi9MxIbr4KkK3Gyns2J16hqX1Lj1hgY/edit#slide=id.g23baeb98e7b_0_253)),[Jianshen Liu](/author/jianshen-liu) (UC Santa Cruz)
-3:55-4:10pm,[An HPC-Oriented Runtime Environment for Enabling Computational Storage](/talks/20230817/matthew.curry),[Matthew L. Curry](/author/matthew-curry) (Sandia National Labs)
+3:55-4:10pm,[An HPC-Oriented Runtime Environment for Enabling Computational Storage](/talks/20230817/matthew.curry) ([slides](/talks/20230817/matthew.curry/atse-computational-storage.pdf)),[Matthew L. Curry](/author/matthew-curry) (Sandia National Labs)
 **4:10-4:25pm**,**Break** (refreshments provided),
 **4:25-5pm**,**Session 5**,
 4:25-4:40pm,[Towards Faster Columnar Data Transport using RDMA](/talks/20230817/jayjeet.chakraborty),[Jayjeet Chakraborty](/author/jayjeet-chakraborty) (UC Santa Cruz)
