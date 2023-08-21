@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carlos Maltzahn | Skyhook Data Management</title><link>https://skyhookdm.github.io/author/carlos-maltzahn/</link><atom:link href="https://skyhookdm.github.io/author/carlos-maltzahn/index.xml" rel="self" type="application/rss+xml"/><description>Carlos Maltzahn</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://skyhookdm.github.io/author/carlos-maltzahn/avatar_hue97a424c08a82cf023f70665a2e52816_688399_270x270_fill_q75_lanczos_center.jpg</url><title>Carlos Maltzahn</title><link>https://skyhookdm.github.io/author/carlos-maltzahn/</link></image><item><title>Institutional Support for Experimental Systems Research</title><link>https://skyhookdm.github.io/talks/20230817/carlos.maltzahn/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><guid>https://skyhookdm.github.io/talks/20230817/carlos.maltzahn/</guid><description>&lt;p>Open source software communities and their strategies and techniques has immense potential to amplify the impact of experimental systems research. The Center for Research in Open Source Software (&lt;a href="https://cross.ucsc.edu" target="_blank" rel="noopener">cross.ucsc.edu&lt;/a>) since I founded it in 2015 has successfully demonstrated this potential by raising $2.3 million in membership fees and creating the Skyhook Data Management incubator project that has now evolved into a community platform for addressing the challenges of the computational I/O stack and lowering barriers for industry to adopt solutions to these challenges. Some of the open source products of SkyhookDM research are now mature enough to require an open source ecosystem in order to facilitate their adoption. However much of the work to create that infrastructure is outside the job description of researchers. That is, we need staff software engineers and community architects to build this infrastructure.&lt;/p>
 &lt;p>In this talk I will give a quick overview of how CROSS v2 is planning to support paths to open source ecosystems by adapting its funding model, governance, and incubator.&lt;/p></description></item><item><title>Computational I/O Stack Workshop, August 17, 2023</title><link>https://skyhookdm.github.io/post/20230718-aug17/</link><pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate><guid>https://skyhookdm.github.io/post/20230718-aug17/</guid><description>&lt;p>👋 Join us for an exciting event featuring IEEE Distinguished Lecturer &lt;a href="https://skyhookdm.github.io/author/yoichiro-tanaka/">Yoichiro Tanaka&lt;/a> (Tohoku University) discussing technological and institutional innovations to make the computational I/O stack a reality!&lt;/p>
-&lt;ul class="cta-group">
-&lt;li>
-&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSc4VS7CdH7F7u-78W4t_WZVkoeI7pkfmGkuX0EmwZlOn3cweg/viewform" class="btn btn-primary px-3 py-3">Register &amp;ndash;&amp;gt;&lt;/a>
-&lt;/li>
-&lt;/ul>
 &lt;div class="alert alert-note">
 &lt;div>
-The event is hybrid &amp;ndash; we highly encourage in-person attendance and welcome remote participation.
+This is now a past event. In case you missed it, we have started posting speaker slides and recordings of the event in the agenda below.
 &lt;/div>
 &lt;/div>
 &lt;p>The introduction of computational data management services into the I/O stack, especially in storage and networking devices, requires both technological innovations and new relations between university and industry. This one-day workshop will convene experts from storage systems, open source, and community architecture to discuss technologies and strategies for a computational I/O stack with low market entry barriers.&lt;/p>
 &lt;p>The workshop will take place on August 17, 2023 from 10am to 5pm, at UC Santa Cruz, Engineering 2, Room 506 (5th floor, north-west of the lobby/elevators, see &lt;a href="https://facilities.soe.ucsc.edu/floor-plans" target="_blank" rel="noopener">floor plans&lt;/a>), and is jointly organized by the &lt;a href="https://ieeemagnetics.org/membership/educational-outreach/distinguished-lecturers" target="_blank" rel="noopener">IEEE Magnetics Society&amp;rsquo;s Distinguished Lecturers Program&lt;/a>, the Skyhook Data Management community with funding by the National Science Foundation (&lt;a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229773" target="_blank" rel="noopener">TI-2229773&lt;/a>), the Center for Research in Open Source Software (&lt;a href="https://cross.ucsc.edu" target="_blank" rel="noopener">cross.ucsc.edu&lt;/a>), and the Open Source Program Office, UC Santa Cruz (&lt;a href="https://ospo.ucsc.edu" target="_blank" rel="noopener">ospo.ucsc.edu&lt;/a>).&lt;/p>
-&lt;ul class="cta-group">
-&lt;li>
-&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSc4VS7CdH7F7u-78W4t_WZVkoeI7pkfmGkuX0EmwZlOn3cweg/viewform" class="btn btn-primary px-3 py-3">Register &amp;ndash;&amp;gt;&lt;/a>
-&lt;/li>
-&lt;/ul>
 &lt;table class="table">
 &lt;tr> &lt;th>Time&lt;/th> &lt;th>Title&lt;/th> &lt;th>Speaker(s)&lt;/th> &lt;/tr>
 &lt;tr>
@@ -96,7 +86,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">2:35-3:05pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/qing.zheng">C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/qing.zheng">C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing&lt;/a> (&lt;a href="https://skyhookdm.github.io/talks/20230817/qing.zheng/c2-ucsc-workshop-slides.pdf">slides&lt;/a>)&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/qing-zheng">Qing Zheng&lt;/a> (Los Alamos National Lab)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -116,7 +106,7 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">3:40-3:55pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/jianshen.liu">Opportunistic Query Execution on SmartNICs for Analyzing In-Transit Data&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/jianshen.liu">Opportunistic Query Execution on SmartNICs for Analyzing In-Transit Data&lt;/a> (&lt;a href="https://docs.google.com/presentation/d/1yt1s6fQ0ugHSJi9MxIbr4KkK3Gyns2J16hqX1Lj1hgY/edit#slide=id.g23baeb98e7b_0_253" target="_blank" rel="noopener">slides&lt;/a>)&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/jianshen-liu">Jianshen Liu&lt;/a> (UC Santa Cruz)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -151,9 +141,4 @@ The event is hybrid &amp;ndash; we highly encourage in-person attendance and wel
 &lt;/tr>
 &lt;caption>Table: Agenda&lt;/caption>
 &lt;/table>
-&lt;ul class="cta-group">
-&lt;li>
-&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSc4VS7CdH7F7u-78W4t_WZVkoeI7pkfmGkuX0EmwZlOn3cweg/viewform" class="btn btn-primary px-3 py-3">Register &amp;ndash;&amp;gt;&lt;/a>
-&lt;/li>
-&lt;/ul>
 &lt;!-- Resources --></description></item></channel></rss>
