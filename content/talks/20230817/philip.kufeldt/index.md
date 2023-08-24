@@ -3,6 +3,7 @@ title: Kinetic Open Storage Project Update
 subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/post/20230718-aug17/)"
 date: 2023-07-17
 authors: [philip.kufeldt]
+url_slides: https://docs.google.com/presentation/d/1Y9oqqHgG35OIZOkHJ2vnZF-B07yNHnZs/edit?usp=sharing&ouid=105297454540541468964&rtpof=true&sd=true
 image:
   focal_point: 'top'
 ---
