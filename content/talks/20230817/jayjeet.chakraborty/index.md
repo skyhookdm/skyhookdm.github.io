@@ -3,6 +3,7 @@ title: Towards Faster Columnar Data Transport using RDMA
 subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/post/20230718-aug17/)"
 date: 2023-08-11
 authors: [jayjeet.chakraborty]
+url_slides: cs-io-23-mochi.pdf
 image:
   focal_point: 'top'
 ---
