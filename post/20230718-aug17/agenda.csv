@@ -17,11 +17,11 @@ Time,Title,Speaker(s)
 2:35-3:05pm,"[C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing](/talks/20230817/qing.zheng) ([slides](/talks/20230817/qing.zheng/c2-ucsc-workshop-slides.pdf))",[Qing Zheng](/author/qing-zheng) (Los Alamos National Lab)
 **3:05-3:20pm**,**Break** (refreshments provided),
 **3:20-4:10pm**,**Session 4**,
-3:20-3:40pm,[Extending Composable Data Services into SmartNICS](/talks/20230817/craigulmer),[Craig Ulmer](/author/craig-ulmer) (Sandia National Labs)
+3:20-3:40pm,[Extending Composable Data Services into SmartNICS](/talks/20230817/craigulmer) ([slides](/talks/20230817/craigulmer/230519_ulmer_compsys_smartnics_final.pdf)),[Craig Ulmer](/author/craig-ulmer) (Sandia National Labs)
 3:40-3:55pm,[Opportunistic Query Execution on SmartNICs for Analyzing In-Transit Data](/talks/20230817/jianshen.liu) ([slides](https://docs.google.com/presentation/d/1yt1s6fQ0ugHSJi9MxIbr4KkK3Gyns2J16hqX1Lj1hgY/edit#slide=id.g23baeb98e7b_0_253)),[Jianshen Liu](/author/jianshen-liu) (UC Santa Cruz)
 3:55-4:10pm,[An HPC-Oriented Runtime Environment for Enabling Computational Storage](/talks/20230817/matthew.curry) ([slides](/talks/20230817/matthew.curry/atse-computational-storage.pdf)),[Matthew L. Curry](/author/matthew-curry) (Sandia National Labs)
 **4:10-4:25pm**,**Break** (refreshments provided),
 **4:25-5pm**,**Session 5**,
-4:25-4:40pm,[Towards Faster Columnar Data Transport using RDMA](/talks/20230817/jayjeet.chakraborty),[Jayjeet Chakraborty](/author/jayjeet-chakraborty) (UC Santa Cruz)
+4:25-4:40pm,[Towards Faster Columnar Data Transport using RDMA](/talks/20230817/jayjeet.chakraborty) ([slides](/talks/20230817/jayjeet.chakraborty/cs-io-23-mochi.pdf)),[Jayjeet Chakraborty](/author/jayjeet-chakraborty) (UC Santa Cruz)
 4:40-4:50,[A Methodology to Assist Kernel Offloading Decisions on Computational Storage](/talks/20230817/lokesh.jaliminche),[Lokesh Jaliminche](/author/lokesh-jaliminche) (UC Santa Cruz)
 4:50-5pm,[Split gRPC: An Isolation Architecture for RPC Stacks on SmartNICs](/talks/20230817/esteban.ramos),[Esteban Ramos](/author/esteban-ramos) (UC Santa Cruz)
