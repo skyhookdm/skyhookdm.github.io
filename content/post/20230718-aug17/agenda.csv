@@ -8,7 +8,7 @@ Time,Title,Speaker(s)
 **noon-1pm**,**Lunch** (provided),
 **1-2:05pm**,**Session 2**,
 1-1:20pm,[Contemplating a new Compute-Memory Hierarchy through the lens of an Acceleration Programming Interface](/talks/20230817/pankaj.mehra/),"[Pankaj Mehra](/author/pankaj-mehra/) (UCSC, Elephance Memory)"
-1:20-1:35pm,[Apache Arrow](https://arrow.apache.org/),[Ian Cook](/author/ian-cook) (Voltron Data)
+1:20-1:35pm,[Apache Arrow](https://arrow.apache.org/) ([slides](/talks/20230817/ian.cook/slides.pdf)),[Ian Cook](/author/ian-cook) (Voltron Data)
 1:35-1:50pm,[Substrait - Engine & Language Independent Data Compute Instructions](https://substrait.io) ([slides](https://docs.google.com/presentation/d/1TPU0YGFoSbguh2AfZO2XHU735LfX5kFuPT08VeEU9zQ/edit#slide=id.g1476627d6f9_0_213)),[Jacques Nadeau](/author/jacques-nadeau) (Sundeck)
 1:50-2:05pm,[Kinetic Open Storage Update](/talks/20230817/philip.kufeldt) ([slides](https://docs.google.com/presentation/d/1Y9oqqHgG35OIZOkHJ2vnZF-B07yNHnZs/edit?usp=sharing&ouid=105297454540541468964&rtpof=true&sd=true)),[Philip Kufeldt](/author/philip-kufeldt)
 **2:05-2:20pm**,**Break** (refreshments provided),
@@ -24,4 +24,4 @@ Time,Title,Speaker(s)
 **4:25-5pm**,**Session 5**,
 4:25-4:40pm,[Towards Faster Columnar Data Transport using RDMA](/talks/20230817/jayjeet.chakraborty) ([slides](/talks/20230817/jayjeet.chakraborty/cs-io-23-mochi.pdf)),[Jayjeet Chakraborty](/author/jayjeet-chakraborty) (UC Santa Cruz)
 4:40-4:50,[A Methodology to Assist Kernel Offloading Decisions on Computational Storage](/talks/20230817/lokesh.jaliminche),[Lokesh Jaliminche](/author/lokesh-jaliminche) (UC Santa Cruz)
-4:50-5pm,[Split gRPC: An Isolation Architecture for RPC Stacks on SmartNICs](/talks/20230817/esteban.ramos),[Esteban Ramos](/author/esteban-ramos) (UC Santa Cruz)
+4:50-5pm,[Split gRPC: An Isolation Architecture for RPC Stacks on SmartNICs](/talks/20230817/esteban.ramos) ([slides](https://docs.google.com/presentation/d/18e9gYKn6ls_Tk79vXAEtqe3s7CU1zIkg5sjogCqU8z8/edit#slide=id.p)),[Esteban Ramos](/author/esteban-ramos) (UC Santa Cruz)

@@ -3,6 +3,7 @@ title: Query processing for a computational storage system
 subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/post/20230718-aug17/)"
 date: 2023-08-16
 authors: [aldrin.montana]
+url_slides: https://docs.google.com/presentation/d/1EXzTIhxg2BQzeeQ7iTLB8j9LTkVjEQTkbj48cfLqWPc/edit?usp=sharing
 image:
   focal_point: 'top'
 ---
