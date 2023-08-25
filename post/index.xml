@@ -55,7 +55,7 @@ This is now a past event. In case you missed it, we have started posting speaker
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">1:20-1:35pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://arrow.apache.org/" target="_blank" rel="noopener">Apache Arrow&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://arrow.apache.org/" target="_blank" rel="noopener">Apache Arrow&lt;/a> (&lt;a href="https://skyhookdm.github.io/talks/20230817/ian.cook/slides.pdf">slides&lt;/a>)&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/ian-cook">Ian Cook&lt;/a> (Voltron Data)&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -135,7 +135,7 @@ This is now a past event. In case you missed it, we have started posting speaker
 &lt;/tr>
 &lt;tr>
 &lt;td data-table-dtype="text">4:50-5pm&lt;/td>
-&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/esteban.ramos">Split gRPC: An Isolation Architecture for RPC Stacks on SmartNICs&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/esteban.ramos">Split gRPC: An Isolation Architecture for RPC Stacks on SmartNICs&lt;/a> (&lt;a href="https://docs.google.com/presentation/d/18e9gYKn6ls_Tk79vXAEtqe3s7CU1zIkg5sjogCqU8z8/edit#slide=id.p" target="_blank" rel="noopener">slides&lt;/a>)&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/esteban-ramos">Esteban Ramos&lt;/a> (UC Santa Cruz)&lt;/td>
 &lt;/tr>
 &lt;caption>Table: Agenda&lt;/caption>
