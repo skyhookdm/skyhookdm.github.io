@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Adjunct Professor, Founder & Director of CROSS, OSPO
+role: Adjunct Professor, Sage Weil Presidential Chair for Open Source Software, Founder & Director of CROSS, OSPO
 
 # Organizations/Affiliations
 organizations:
