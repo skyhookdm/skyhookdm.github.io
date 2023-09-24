@@ -1,6 +1,6 @@
 ---
 title: Institutional Support for Experimental Systems Research
-subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/post/20230718-aug17/)"
+subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/event/20230817/)"
 date: 2023-08-11
 authors: [carlos.maltzahn]
 url_slides: https://docs.google.com/presentation/d/1XHCcD1yNSyyNklJnPDttfcLbNP5nJc1V/edit?usp=sharing&ouid=105297454540541468964&rtpof=true&sd=true

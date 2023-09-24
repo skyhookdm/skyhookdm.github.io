@@ -1,6 +1,6 @@
 ---
 title: "Magnetic data storage technology; from the invention of perpendicular magnetic recording (PMR) to the social integration"
-subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/post/20230718-aug17/)"
+subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/event/20230817/)"
 date: 2023-07-17
 authors: [yoichiro.tanaka]
 active: true

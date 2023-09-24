@@ -1,6 +1,6 @@
 ---
 title: Opportunistic Query Execution on SmartNICs for Analyzing In-Transit Data
-subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/post/20230718-aug17/)"
+subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/event/20230817/)"
 date: 2023-08-11
 authors: [jianshen.liu]
 url_slides: https://docs.google.com/presentation/d/1yt1s6fQ0ugHSJi9MxIbr4KkK3Gyns2J16hqX1Lj1hgY/edit#slide=id.g23baeb98e7b_0_253

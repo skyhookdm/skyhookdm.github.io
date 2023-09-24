@@ -1,6 +1,6 @@
 ---
 title: An HPC-Oriented Runtime Environment for Enabling Computational Storage
-subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/post/20230718-aug17/)"
+subtitle: "[Computational I/O Stack Workshop, August 17, 2023](/event/20230817/)"
 date: 2023-08-11
 authors: [matthew.curry]
 url_slides: atse-computational-storage.pdf
