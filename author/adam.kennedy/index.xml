@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>adam.kennedy | Skyhook Data Management</title><link>https://skyhookdm.github.io/author/adam.kennedy/</link><atom:link href="https://skyhookdm.github.io/author/adam.kennedy/index.xml" rel="self" type="application/rss+xml"/><description>adam.kennedy</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Sep 2023 14:00:00 -0700</lastBuildDate><image><url>https://skyhookdm.github.io/media/logo_hu5cc6dc8723ec228d8c1f642a46eb1326_91430_300x300_fit_lanczos_3.png</url><title>adam.kennedy</title><link>https://skyhookdm.github.io/author/adam.kennedy/</link></image><item><title>Adam Kennedy (Voltron Data): Polygraph</title><link>https://skyhookdm.github.io/event/20230907/</link><pubDate>Thu, 07 Sep 2023 14:00:00 -0700</pubDate><guid>https://skyhookdm.github.io/event/20230907/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+This is an expanded version of Adam Kennedy&amp;rsquo;s presentation at the &lt;a href="https://ceur-ws.org/Vol-3462/CDMS0.pdf" target="_blank" rel="noopener">2nd International Workshop on Composable Data Management Systems 2023 (CDMS)&lt;/a> (&lt;a href="https://ceur-ws.org/Vol-3462" target="_blank" rel="noopener">agenda&lt;/a>). The following abstract is copied from &lt;a href="%28https://ceur-ws.org/Vol-3462/CDMS12.pdf%29">there&lt;/a>.
+&lt;/div>
+&lt;/div>
+&lt;p>The maturity and substantial investment in Apache Calcite establish it as the open source standard for query planning and
+optimization across numerous data tools. Nevertheless, utilizing Apache Calcite for dynamic query planning in a diverse tool
+stack with multiple languages has proven challenging. Through the integration of Apache Arrow, we introduce Polygraph:
+a language-independent, parse-free, and efficient format for query plans. Its purpose is to enhance plan interoperability,
+diminish latency and overheads, and facilitate dynamic query optimization. This experimental format allows for the efficient
+exchange of query plans between tools in diverse languages with minimal serialization overhead.&lt;/p>
+&lt;p>While future query engines are steering away from Java, Calcite remains the solitary mature option for query planning
+across a broad spectrum of workloads. Few alternatives come close to matching its features. However, Calcite relies on
+tree-based JSON or XML plan representations that do not readily lend themselves to certain optimizations and necessitate
+substantial overhead for serialization, I/O, and parsing. The commingling of planners and engines across languages is rare,
+unusual, and complex. Such approaches typically result in ad hoc, internal formats with limited reusability. Addressing
+these challenges, Polygraph relocates the query plan to Arrow. Polygraph employs a graph structure encoded with columnar
+storage techniques. Preliminary experiments indicate an order of magnitude reduction in query plan size compared to JSON
+encoding, without incurring copying and serialization overheads. Arrow provides zero-copy, shared-memory, and parse-free
+capabilities, along with fast RPC via Arrow Flight. In this representation, plan consumers only need to load the components
+and properties of a query plan required for a given computation. These efficiencies substantially reduce the latency between
+plan generation and query execution. Moreover, we envision significant potential for other advancements, including resource
+planning, ML preprocessing, and integration into ML training and inference.&lt;/p>
+&lt;p>Until recently, there was no urgent imperative to represent query plans efficiently. However, the escalating complexity
+and size of query graphs will persist as data tools become more deeply integrated into intricate ML workloads. Polygraph’s
+agile and decomposable graph representation empowers data engines to contribute to query optimization and resource
+management. Enhanced integration with top-tier ML systems becomes more viable, facilitating the incorporation of run-time
+compute planning and resource management into the query plan, utilizing tools like Apache Acero. The benefits extend
+beyond improvements in space efficiency and latency. Query sub-plans can be optimized in-situ using real-time hardware
+metrics. Value relations and broadcast tables can be seamlessly embedded in the plan as Arrow objects, accessed in a zero-copy
+manner. Large models can be directly incorporated into the query plan, incurring no loading cost until required. Increased
+investment in query plan representations, exemplified by Polygraph, supports the data community in keeping pace with
+advancements in new architectures and problem domains, such as AI.&lt;/p></description></item></channel></rss>

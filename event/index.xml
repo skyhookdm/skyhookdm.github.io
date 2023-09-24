@@ -1,7 +1,184 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Events | Skyhook Data Management</title><link>https://skyhookdm.github.io/event/</link><atom:link href="https://skyhookdm.github.io/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Events</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://skyhookdm.github.io/media/logo_hu5cc6dc8723ec228d8c1f642a46eb1326_91430_300x300_fit_lanczos_3.png</url><title>Recent &amp; Upcoming Events</title><link>https://skyhookdm.github.io/event/</link></image><item><title>Example Event</title><link>https://skyhookdm.github.io/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://skyhookdm.github.io/event/example/</guid><description>&lt;p>Slides can be added in a few ways:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🎪 Recent &amp; Upcoming Events | Skyhook Data Management</title><link>https://skyhookdm.github.io/event/</link><atom:link href="https://skyhookdm.github.io/event/index.xml" rel="self" type="application/rss+xml"/><description>🎪 Recent &amp; Upcoming Events</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 13:00:00 -0700</lastBuildDate><image><url>https://skyhookdm.github.io/media/logo_hu5cc6dc8723ec228d8c1f642a46eb1326_91430_300x300_fit_lanczos_3.png</url><title>🎪 Recent &amp; Upcoming Events</title><link>https://skyhookdm.github.io/event/</link></image><item><title>Workshop: Creating the SkyhookDM Ecosystem for the Computational I/O Stack</title><link>https://skyhookdm.github.io/event/20230929/</link><pubDate>Fri, 29 Sep 2023 13:00:00 -0700</pubDate><guid>https://skyhookdm.github.io/event/20230929/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+This event is part of the &lt;a href="https://ucospo23.sched.com" target="_blank" rel="noopener">2023 UC Open Source Symposium&lt;/a>, September 27-29, 2023 (&lt;a href="https://ucospo23.sched.com/event/1RHgi/workshop-creating-the-skyhookdm-ecosystem-for-the-computational-io-stack" target="_blank" rel="noopener">this workshop&amp;rsquo;s link&lt;/a>)
+&lt;/div>
+&lt;/div>
+&lt;p>Hardware acceleration for computational I/O, that is the integration of specialized computational devices into the I/O path, is one of the most promising technologies to further improve performance and energy efficiency of analyzing high-volume and high-velocity datasets and streams. Despite the general availability of a number of devices such as Data Processing Units (DPUs, also known as SmartNICs) and Samsung&amp;rsquo;s SmartSSDs, the open source data science ecosystem lacks an open and shared computational I/O software stack ecosystem. This lack hampers composability and innovation, and increases design cost. To address this. the Center for Research in Open Source Software launched Skyhook Data Management to create open source blueprints for a computational I/O stack that can be adopted by industry. With seed funding from industry component makers, SkyhookDM had a promising start: a blueprint using the unmodified Ceph open source distributed storage system was contributed to Apache Arrow in 2022 and has been included in every release since v7.0.0. It serves as a use case for SNIA Computational Storage TWG, and has attracted world-leading experts from industry and national labs.&lt;/p>
+&lt;p>This workshop invites participants to help put together a roadmap for an open and shared computational I/O software stack ecosystem at UC Santa Cruz following best practices in open source software techniques, strategies, and governance. We will discuss technical and organizational opportunities, leveraging readily available technologies and institutions.&lt;/p></description></item><item><title>Adam Kennedy (Voltron Data): Polygraph</title><link>https://skyhookdm.github.io/event/20230907/</link><pubDate>Thu, 07 Sep 2023 14:00:00 -0700</pubDate><guid>https://skyhookdm.github.io/event/20230907/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+This is an expanded version of Adam Kennedy&amp;rsquo;s presentation at the &lt;a href="https://ceur-ws.org/Vol-3462/CDMS0.pdf" target="_blank" rel="noopener">2nd International Workshop on Composable Data Management Systems 2023 (CDMS)&lt;/a> (&lt;a href="https://ceur-ws.org/Vol-3462" target="_blank" rel="noopener">agenda&lt;/a>). The following abstract is copied from &lt;a href="%28https://ceur-ws.org/Vol-3462/CDMS12.pdf%29">there&lt;/a>.
+&lt;/div>
+&lt;/div>
+&lt;p>The maturity and substantial investment in Apache Calcite establish it as the open source standard for query planning and
+optimization across numerous data tools. Nevertheless, utilizing Apache Calcite for dynamic query planning in a diverse tool
+stack with multiple languages has proven challenging. Through the integration of Apache Arrow, we introduce Polygraph:
+a language-independent, parse-free, and efficient format for query plans. Its purpose is to enhance plan interoperability,
+diminish latency and overheads, and facilitate dynamic query optimization. This experimental format allows for the efficient
+exchange of query plans between tools in diverse languages with minimal serialization overhead.&lt;/p>
+&lt;p>While future query engines are steering away from Java, Calcite remains the solitary mature option for query planning
+across a broad spectrum of workloads. Few alternatives come close to matching its features. However, Calcite relies on
+tree-based JSON or XML plan representations that do not readily lend themselves to certain optimizations and necessitate
+substantial overhead for serialization, I/O, and parsing. The commingling of planners and engines across languages is rare,
+unusual, and complex. Such approaches typically result in ad hoc, internal formats with limited reusability. Addressing
+these challenges, Polygraph relocates the query plan to Arrow. Polygraph employs a graph structure encoded with columnar
+storage techniques. Preliminary experiments indicate an order of magnitude reduction in query plan size compared to JSON
+encoding, without incurring copying and serialization overheads. Arrow provides zero-copy, shared-memory, and parse-free
+capabilities, along with fast RPC via Arrow Flight. In this representation, plan consumers only need to load the components
+and properties of a query plan required for a given computation. These efficiencies substantially reduce the latency between
+plan generation and query execution. Moreover, we envision significant potential for other advancements, including resource
+planning, ML preprocessing, and integration into ML training and inference.&lt;/p>
+&lt;p>Until recently, there was no urgent imperative to represent query plans efficiently. However, the escalating complexity
+and size of query graphs will persist as data tools become more deeply integrated into intricate ML workloads. Polygraph’s
+agile and decomposable graph representation empowers data engines to contribute to query optimization and resource
+management. Enhanced integration with top-tier ML systems becomes more viable, facilitating the incorporation of run-time
+compute planning and resource management into the query plan, utilizing tools like Apache Acero. The benefits extend
+beyond improvements in space efficiency and latency. Query sub-plans can be optimized in-situ using real-time hardware
+metrics. Value relations and broadcast tables can be seamlessly embedded in the plan as Arrow objects, accessed in a zero-copy
+manner. Large models can be directly incorporated into the query plan, incurring no loading cost until required. Increased
+investment in query plan representations, exemplified by Polygraph, supports the data community in keeping pace with
+advancements in new architectures and problem domains, such as AI.&lt;/p></description></item><item><title>Computational I/O Stack Workshop</title><link>https://skyhookdm.github.io/event/20230817/</link><pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate><guid>https://skyhookdm.github.io/event/20230817/</guid><description>&lt;p>👋 Join us for an exciting event featuring IEEE Distinguished Lecturer &lt;a href="https://skyhookdm.github.io/author/yoichiro-tanaka/">Yoichiro Tanaka&lt;/a> (Tohoku University) discussing technological and institutional innovations to make the computational I/O stack a reality!&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+This is now a past event. In case you missed it, we have started posting speaker slides and recordings of the event in the agenda below.
+&lt;/div>
+&lt;/div>
+&lt;p>The introduction of computational data management services into the I/O stack, especially in storage and networking devices, requires both technological innovations and new relations between university and industry. This one-day workshop will convene experts from storage systems, open source, and community architecture to discuss technologies and strategies for a computational I/O stack with low market entry barriers.&lt;/p>
+&lt;p>The workshop will take place on August 17, 2023 from 10am to 5pm, at UC Santa Cruz, Engineering 2, Room 506 (5th floor, north-west of the lobby/elevators, see &lt;a href="https://facilities.soe.ucsc.edu/floor-plans" target="_blank" rel="noopener">floor plans&lt;/a>), and is jointly organized by the &lt;a href="https://ieeemagnetics.org/membership/educational-outreach/distinguished-lecturers" target="_blank" rel="noopener">IEEE Magnetics Society&amp;rsquo;s Distinguished Lecturers Program&lt;/a>, the Skyhook Data Management community with funding by the National Science Foundation (&lt;a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229773" target="_blank" rel="noopener">TI-2229773&lt;/a>), the Center for Research in Open Source Software (&lt;a href="https://cross.ucsc.edu" target="_blank" rel="noopener">cross.ucsc.edu&lt;/a>), and the Open Source Program Office, UC Santa Cruz (&lt;a href="https://ospo.ucsc.edu" target="_blank" rel="noopener">ospo.ucsc.edu&lt;/a>).&lt;/p>
+&lt;table class="table">
+&lt;tr> &lt;th>Time&lt;/th> &lt;th>Title&lt;/th> &lt;th>Speaker(s)&lt;/th> &lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;strong>10-10:15am&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>Introduction&lt;/strong> (&lt;a href="https://docs.google.com/presentation/d/1Y1ekBIN61yjHObmw9kk-8ONSSJ-VgUNA/edit?usp=sharing&amp;amp;ouid=105297454540541468964&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/carlos-maltzahn">Carlos Maltzahn&lt;/a> (UC Santa Cruz), &lt;a href="https://skyhookdm.github.io/author/philip-kufeldt">Philip Kufeldt&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;strong>10:15-noon&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>Session 1&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">10:15-11:15am&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>IEEE Distinguished Lecture:&lt;/strong> &lt;a href="https://skyhookdm.github.io/talks/20230817/yoichiro.tanaka">Magnetic data storage technology; from the invention of perpendicular magnetic recording (PMR) to the social integration&lt;/a> (&lt;a href="https://skyhookdm.github.io/talks/20230817/yoichiro.tanaka/slides.pdf">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/yoichiro-tanaka">Yoichiro Tanaka&lt;/a> (Tohoku University)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">11:15-11:30am&lt;/td>
+&lt;td data-table-dtype="text">Q&amp;amp;A and Discussion&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">11:30-11:45am&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/carlos.maltzahn">Institutional Support for Experimental Systems Research&lt;/a> (&lt;a href="https://docs.google.com/presentation/d/1XHCcD1yNSyyNklJnPDttfcLbNP5nJc1V/edit?usp=sharing&amp;amp;ouid=105297454540541468964&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/carlos-maltzahn">Carlos Maltzahn&lt;/a> (UC Santa Cruz)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">11:45-noon&lt;/td>
+&lt;td data-table-dtype="text">Q&amp;amp;A and Discussion&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;strong>noon-1pm&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>Lunch&lt;/strong> (provided)&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;strong>1-2:05pm&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>Session 2&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">1-1:20pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/pankaj.mehra/">Contemplating a new Compute-Memory Hierarchy through the lens of an Acceleration Programming Interface&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/pankaj-mehra/">Pankaj Mehra&lt;/a> (UCSC, Elephance Memory)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">1:20-1:35pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://arrow.apache.org/" target="_blank" rel="noopener">Apache Arrow&lt;/a> (&lt;a href="https://skyhookdm.github.io/talks/20230817/ian.cook/slides.pdf">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/ian-cook">Ian Cook&lt;/a> (Voltron Data)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">1:35-1:50pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://substrait.io" target="_blank" rel="noopener">Substrait - Engine &amp;amp; Language Independent Data Compute Instructions&lt;/a> (&lt;a href="https://docs.google.com/presentation/d/1TPU0YGFoSbguh2AfZO2XHU735LfX5kFuPT08VeEU9zQ/edit#slide=id.g1476627d6f9_0_213" target="_blank" rel="noopener">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/jacques-nadeau">Jacques Nadeau&lt;/a> (Sundeck)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">1:50-2:05pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/philip.kufeldt">Kinetic Open Storage Update&lt;/a> (&lt;a href="https://docs.google.com/presentation/d/1Y9oqqHgG35OIZOkHJ2vnZF-B07yNHnZs/edit?usp=sharing&amp;amp;ouid=105297454540541468964&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/philip-kufeldt">Philip Kufeldt&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;strong>2:05-2:20pm&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>Break&lt;/strong> (refreshments provided)&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;strong>2:20-3.05pm&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>Session 3&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">2:20-2:35pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/aldrin.montana">Query processing for a computational storage system&lt;/a> (&lt;a href="https://docs.google.com/presentation/d/1EXzTIhxg2BQzeeQ7iTLB8j9LTkVjEQTkbj48cfLqWPc/edit?usp=sharing" target="_blank" rel="noopener">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/aldrin-montana">Aldrin Montana&lt;/a> (UC Santa Cruz)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">2:35-3:05pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/qing.zheng">C2: LANL-Seagate’s Early Prototype for Near-Data, SQL-Like Query Processing&lt;/a> (&lt;a href="https://skyhookdm.github.io/talks/20230817/qing.zheng/c2-ucsc-workshop-slides.pdf">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/qing-zheng">Qing Zheng&lt;/a> (Los Alamos National Lab)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;strong>3:05-3:20pm&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>Break&lt;/strong> (refreshments provided)&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;strong>3:20-4:10pm&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>Session 4&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">3:20-3:40pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/craigulmer">Extending Composable Data Services into SmartNICS&lt;/a> (&lt;a href="https://skyhookdm.github.io/talks/20230817/craigulmer/230519_ulmer_compsys_smartnics_final.pdf">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/craig-ulmer">Craig Ulmer&lt;/a> (Sandia National Labs)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">3:40-3:55pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/jianshen.liu">Opportunistic Query Execution on SmartNICs for Analyzing In-Transit Data&lt;/a> (&lt;a href="https://docs.google.com/presentation/d/1yt1s6fQ0ugHSJi9MxIbr4KkK3Gyns2J16hqX1Lj1hgY/edit#slide=id.g23baeb98e7b_0_253" target="_blank" rel="noopener">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/jianshen-liu">Jianshen Liu&lt;/a> (UC Santa Cruz)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">3:55-4:10pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/matthew.curry">An HPC-Oriented Runtime Environment for Enabling Computational Storage&lt;/a> (&lt;a href="https://skyhookdm.github.io/talks/20230817/matthew.curry/atse-computational-storage.pdf">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/matthew-curry">Matthew L. Curry&lt;/a> (Sandia National Labs)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;strong>4:10-4:25pm&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>Break&lt;/strong> (refreshments provided)&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;strong>4:25-5pm&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;strong>Session 5&lt;/strong>&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">4:25-4:40pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/jayjeet.chakraborty">Towards Faster Columnar Data Transport using RDMA&lt;/a> (&lt;a href="https://skyhookdm.github.io/talks/20230817/jayjeet.chakraborty/cs-io-23-mochi.pdf">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/jayjeet-chakraborty">Jayjeet Chakraborty&lt;/a> (UC Santa Cruz)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">4:40-4:50&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/lokesh.jaliminche">A Methodology to Assist Kernel Offloading Decisions on Computational Storage&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/lokesh-jaliminche">Lokesh Jaliminche&lt;/a> (UC Santa Cruz)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">4:50-5pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/talks/20230817/esteban.ramos">Split gRPC: An Isolation Architecture for RPC Stacks on SmartNICs&lt;/a> (&lt;a href="https://docs.google.com/presentation/d/18e9gYKn6ls_Tk79vXAEtqe3s7CU1zIkg5sjogCqU8z8/edit#slide=id.p" target="_blank" rel="noopener">slides&lt;/a>)&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://skyhookdm.github.io/author/esteban-ramos">Esteban Ramos&lt;/a> (UC Santa Cruz)&lt;/td>
+&lt;/tr>
+&lt;caption>Table: Agenda&lt;/caption>
+&lt;/table>
+&lt;!-- Resources --></description></item><item><title>CROSS, Skyhook, and Polyphy</title><link>https://skyhookdm.github.io/event/20230427/</link><pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate><guid>https://skyhookdm.github.io/event/20230427/</guid><description>&lt;p>We would like to invite you to a day-long hybrid workshop on April 27, 2023, entitled “CROSS, Skyhook, and Polyphy: Institutional support for creating Paths to Open Source Ecosystems for Open Source Products in Research.&amp;quot; This hybrid workshop will be held at UC Santa Cruz with remote access for participants unable to attend in-person.&lt;/p>
+&lt;p>With support from an NSF Pathways to Enable Open Source Ecosystems (POSE) Phase 1 grant, the NSF Institute for Research and Innovation in Software for High-Energy Physics (IRIS-HEP), and the Alfred P. Sloan Foundation, the goal of the workshop is to scope out self-sustaining ecosystems for the &lt;a href="https://github.com/skyhookdm" target="_blank" rel="noopener">Skyhook&lt;/a> and &lt;a href="https://polyphy.io/" target="_blank" rel="noopener">Polyphy&lt;/a> projects and to create an institutional model within the &lt;a href="https://cross.ucsc.edu" target="_blank" rel="noopener">Center for Research in Open Source Software (CROSS)&lt;/a> and the &lt;a href="https://skyhookdm.github.io/">Open Source Program Office (OSPO) UC Santa Cruz&lt;/a> to create paths to sustainable open source ecosystems for research products across UC campuses.&lt;/p>
+&lt;p>A draft agenda for the event &lt;del>will be provided by March 27&lt;/del> is available &lt;a href="https://cross.ucsc.edu/news/news/20230427poseevent.html" target="_blank" rel="noopener">here&lt;/a> as well as a &lt;a href="https://docs.google.com/document/d/1znmoRvnmoZk1YMGWu7wIusC7KxlI6R_sSuXuK5PQ9LQ/edit?usp=sharing" target="_blank" rel="noopener">white paper&lt;/a> that will form the basis for the day’s discussion. The workshop’s interactive sessions will discuss strategies for creating and sustaining institutional support for creating open source ecosystems, using
+Skyhook and Polyphy as examples. We will also hear updates from our CROSS fellows about their research projects that are already creating open source products that likely will benefit from institutional support for open source ecosystems in the future.&lt;/p></description></item></channel></rss>
