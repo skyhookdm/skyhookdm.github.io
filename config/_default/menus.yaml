@@ -22,3 +22,6 @@ main:
   - name: 🎤 Publications
     url: "#pubs"
     weight: 60
+  - name: 🎪 Events
+    url: "event"
+    weighty: 70

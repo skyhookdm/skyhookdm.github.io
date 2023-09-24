@@ -8,18 +8,15 @@ image:
   focal_point: 'top'
 ---
 
-👋 Join us for an exciting event featuring IEEE Distinguished Lecturer {{% mention yoichiro.tanaka %}} (Tohoku University) discussing technological and institutional innovations to make the computational I/O stack a reality!
+👋 Join us for an exciting event featuring IEEE Distinguished Lecturer [Yoichiro Tanaka](https://skyhookdm.github.io/author/yoichiro-tanaka/) (Tohoku University) discussing technological and institutional innovations to make the computational I/O stack a reality!
 
-{{% callout note %}}
-This is now a past event. In case you missed it, we have started posting speaker slides and recordings of the event in the agenda below.
-{{% /callout %}}
+{{% cta cta_link="/event/20230817" cta_text="Agenda & Media of Past Event" %}}
 
 The introduction of computational data management services into the I/O stack, especially in storage and networking devices, requires both technological innovations and new relations between university and industry. This one-day workshop will convene experts from storage systems, open source, and community architecture to discuss technologies and strategies for a computational I/O stack with low market entry barriers.
 
-The workshop will take place on August 17, 2023 from 10am to 5pm, at UC Santa Cruz, Engineering 2, Room 506 (5th floor, north-west of the lobby/elevators, see [floor plans](https://facilities.soe.ucsc.edu/floor-plans)), and is jointly organized by the [IEEE Magnetics Society's Distinguished Lecturers Program][web-ieee-lecturers], the Skyhook Data Management community with funding by the National Science Foundation ([TI-2229773][web-nsf-award]), the Center for Research in Open Source Software ([cross.ucsc.edu][web-cross]), and the Open Source Program Office, UC Santa Cruz ([ospo.ucsc.edu][web-ospo]). 
+The workshop will take place on August 17, 2023 from 10am to 5pm, at UC Santa Cruz, Engineering 2 (room to be confirmed) and is jointly organized by the [IEEE Magnetics Society's Distinguished Lecturers Program][web-ieee-lecturers], the Skyhook Data Management community with funding by the National Science Foundation ([TI-2229773][web-nsf-award]), the Center for Research in Open Source Software ([cross.ucsc.edu][web-cross]), and the Open Source Program Office, UC Santa Cruz ([ospo.ucsc.edu][web-ospo]). 
 
-{{< table path="agenda.csv" header="true" caption="Table:  Agenda" >}}
-
+{{% cta cta_link="/event/20230817" cta_text="Agenda & Media of Past Event" %}}
 
 <!-- Resources -->
 [web-ieee-lecturers]: https://ieeemagnetics.org/membership/educational-outreach/distinguished-lecturers
